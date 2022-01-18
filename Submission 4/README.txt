@@ -4,7 +4,7 @@ Speech using Attention Mechanism with Deep
 Neural Network and Transfer Learning Approach
 
 Paper Link:
-https://drive.google.com/drive/u/0/folders/1ChdzFBqO9niFoWbEA1G0B4B3yhjGw8wl
+https://drive.google.com/file/d/1jloEgIwucmhX1GMGrN3gwIgbsb-55CJG/view?usp=sharing
 Video Link
 https://youtu.be/4wevHPOR3YI
 
