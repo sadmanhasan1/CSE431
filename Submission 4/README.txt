@@ -8,7 +8,7 @@ Paper Link:
 https://drive.google.com/file/d/1jloEgIwucmhX1GMGrN3gwIgbsb-55CJG/view?usp=sharing
 
 Video Link
-https://youtu.be/4wevHPOR3YI
+https://youtu.be/BDYmN08-a6Q
 
 Slide Link
 https://docs.google.com/presentation/d/1dFFhpH2jej0qlyU3U3UDmB15JhQKfbcMlMoCeDuvHAw/edit#slide=id.g10e78ea5400_4_0
